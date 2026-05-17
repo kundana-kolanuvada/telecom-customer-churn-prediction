@@ -28,3 +28,35 @@ The project includes:
 - XGBoost
 - Imbalanced-learn (SMOTE)
 - Streamlit
+
+  ---
+
+# Setup
+
+```bash
+git clone <repository-link>
+
+cd telecom_churn_project
+```
+
+---
+
+# Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+# Run Model Training
+
+```bash
+python train_model.py
+```
+
+This generates:
+- `customer_churn_model.pkl`
+- `encoders.pkl`
+
+---
