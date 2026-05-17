@@ -34,14 +34,14 @@ The project includes:
 # Setup
 
 ```bash
-git clone <repository-link>
+git clone <https://github.com/kundana-kolanuvada/telecom-customer-churn-prediction>
 
 cd telecom_churn_project
 ```
 
 ---
 
-# Install Dependencies
+Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 ---
 
-# Run Model Training
+Run Model Training
 
 ```bash
 python train_model.py
