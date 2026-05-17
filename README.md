@@ -17,7 +17,7 @@ The project includes:
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 | Category | Technology Used |
 |---|---|
@@ -34,7 +34,7 @@ The project includes:
 
 ---
 
-# Dataset
+## Dataset
 
 Dataset used: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
